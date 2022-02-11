@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&family=Roboto+Slab:100,300,400,700');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,500;1,100&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #d2dbdd;
+   
+} 
+.heding_style{
+    padding: 30px 0px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    /* color: #868686; */
+    background-color:#fff;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+/* .cards{
+    width: 100%;
+    height: auto;
+}   */
+/* .card{
+    margin: 6%;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color: #fff;
+    width: 21.25%;
+    border-radius: 12px;
+    box-shadow: 0px 13px 10px-7px rgb(0, 0,0.1);
+    float: left;
+    
+} */
+/* .card:hover{  
+    box-shadow: 0px 30px 18px-8px rgb(0, 0,0.1);
+    transforbackground-color:#fff;m: scale(1.05,1.05);
+} */
+/* .card_img{
+    width: 100%;
+    height: 2background-color:#fff;{
+    background-color: #fff;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 16px 24px 24px 24px;
+    background-color: #fff;
+} */
+/* .card_catagory{
+    font-family: 'Raleway', sans-serif;.cards{
+    width: 100%;
+    height: auto;
+} 
+    font-weight: 500;
+    color: #868686;
+    backgrounbackground-color:#fff;-color: #fff;
+} */
+/* .card_title{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Raleway', sans-serif;
+    background-color:#fff;
+    text-transform: capitalize;
+} */
+/* .btn{
+    padding: 5px 8px;
+    font-familbackground-color:#fff;y: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: #868686;
+    background-color: #fff;
+    outline: nbackground-color:#fff;one;
+    border: 1px solid black;
+    cursor: pointer;
+} */
+.slotmachine{
+  text-align: center;
+  border: 2px solid #d2d;
+  background-color: #fff;
+  height: 500px;
+  width: 400px;
+  margin: 30px 550px;
+  overflow-y: auto;
+  
+}
+.slot_inner{
+  background-color: #d2dbdd;
+  padding-top: 20px;
+}
+/* 
+@media(max-width:768){
+    .card{
+        float: none;
+        margin: 5px;
+        width: 90%;
+    }background-color:#fff;
+} */
